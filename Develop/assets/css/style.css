@@ -116,25 +116,15 @@ p {
     text-align: center;
 }
 
-.benefit-lead img {
+/* Applies to the images in the right column of the content section */
+.benefits img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
-.benefit-brand img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-.benefit-cost img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-.search-engine-optimization {
+/* Applies to the left column blocks of content within the content sections */
+.content-left-column {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -143,29 +133,12 @@ p {
     color: #ffffff;
 }
 
-.online-reputation-management {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.social-media-marketing {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-/* Applies to all images in the content section */
+/* Applies to all images in the left column of the content section */
 .content img {
     max-height: 200px;
 }
 
+/* Applies to all h2's in the content section */
 .content h2 {
     margin-bottom: 20px;
     font-size: 36px;
