@@ -161,15 +161,8 @@ p {
     color: #ffffff;
 }
 
-.search-engine-optimization img {
-    max-height: 200px;
-}
-
-.online-reputation-management img {
-    max-height: 200px;
-}
-
-.social-media-marketing img {
+/* Applies to all images in the content section */
+.content img {
     max-height: 200px;
 }
 
