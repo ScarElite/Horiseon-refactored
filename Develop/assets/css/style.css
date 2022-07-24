@@ -8,6 +8,8 @@ body {
     background-color: #d9dcd6;
 }
 
+ /* Header */
+
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -69,6 +71,8 @@ p {
     margin-left: 25px;
 }
 
+/* Content section */
+
 .content {
     width: 75%;
     display: inline-block;
@@ -86,7 +90,7 @@ p {
     background-color: #2589bd;
 }
 
-/* Applies to the right column of content in the content section  */
+/* Applies to the benefits column of on the right*/
 .benefits-right-column {
     margin-bottom: 32px;
     color: #ffffff;
@@ -97,7 +101,7 @@ p {
     text-align: center;
 }
 
-/* Applies to the images in the right column of the content section */
+/* Applies to the images in the benefits column on the right */
 .benefits img {
     display: block;
     margin: 10px auto;
@@ -114,12 +118,12 @@ p {
     color: #ffffff;
 }
 
-/* Applies to all images in the left column of the content section */
+/* Applies to all images in the left column */
 .content img {
     max-height: 200px;
 }
 
-/* Applies to all h2's in the content section */
+/* Applies to all h2's in the left column */
 .content h2 {
     margin-bottom: 20px;
     font-size: 36px;
